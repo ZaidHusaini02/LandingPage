@@ -1,3 +1,3 @@
-![landingpage png](https://github.com/ZaidHusaini02/LandingPage/assets/102004433/22ee3f69-fb76-4529-b94d-96b3fd706028)
+![landingpage png (2)](https://github.com/ZaidHusaini02/LandingPage/assets/102004433/1f0d7989-6f83-48a6-9554-60d8e50321c4)
 # LandingPage
 Membuat Landing Page Sederhana
